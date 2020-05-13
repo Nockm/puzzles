@@ -26,7 +26,9 @@ function snooze(snoozeTimeSecs) {
           Don't hardcode the # of seconds in the printout.
 */
 
+//
 // Write your code here.
+//
 
 
 
@@ -47,7 +49,9 @@ function snooze(snoozeTimeSecs) {
           Expect the code to get pretty messy.
 */
 
+//
 // Write your code here.
+//
 
 
 
@@ -58,11 +62,14 @@ function snooze(snoozeTimeSecs) {
     
     Note: Write your code inside the specially-crafted main() method.
           Ignore the surrounding code for now.
+          Don't hardcode the # of seconds in the printout.
           Expect the code to look neater than the code in Task 2.
 */
 
 async function main() {
-    // Write your async/await code here.
+    //
+    // Write your code here.
+    //
 }
 
 (async () => { await main(); })().catch();
