@@ -1,8 +1,7 @@
 /*
     Background
 
-    snooze() creates a promise that pauses
-    the script for the given # of secs.
+    snooze() creates a promise that pauses the script for the given # of secs.
 */
 
 function snooze(snoozeTimeSecs) {
@@ -48,8 +47,7 @@ function snooze(snoozeTimeSecs) {
     
     Do the same as #2 but use async/await.
     
-    Note: You will have to write your code inside
-          the specially-crafted main() method.
+    Note: You will have to write your code inside the specially-crafted main() method.
           Ignore the stuff around it for now.
 */
 
