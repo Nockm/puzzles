@@ -19,8 +19,9 @@ function snooze(snoozeTimeSecs) {
     
     - Snooze for 1 second
     - Print out "I slept for 1 second"
-    
-    Note: Don't hardcode the # of seconds in the printout.
+
+    Note: Use ".then()" Promise chaining.
+          Don't hardcode the # of seconds in the printout.
 */
 
 // Write your code here.
@@ -38,6 +39,7 @@ function snooze(snoozeTimeSecs) {
     - Print out "I slept for 3 seconds"
     
     Note: Use ".then()" Promise chaining.
+          Don't hardcode the # of seconds in the printout.
 */
 
 // Write your code here.
@@ -47,8 +49,8 @@ function snooze(snoozeTimeSecs) {
     
     Do the same as #2 but use async/await.
     
-    Note: You will have to write your code inside the specially-crafted main() method.
-          Ignore the stuff around it for now.
+    Note: Write your code inside the specially-crafted main() method.
+          Ignore the surrounding code for now.
 */
 
 async function main() {
