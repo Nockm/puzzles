@@ -24,6 +24,8 @@ function snooze(snoozeTimeSecs) {
     Note: Don't hardcode the # of seconds in the printout.
 */
 
+// Write your code here.
+
 /*  
     Task 2
     
@@ -39,6 +41,7 @@ function snooze(snoozeTimeSecs) {
     Note: Use ".then()" Promise chaining.
 */
 
+// Write your code here.
 
 /* 
     Task 3
